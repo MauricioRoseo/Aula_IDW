@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(33,37,41);
+}
+/*Header*/
+.navbar-expand-lg{
+    background-color: rgb(33,37,41);
+}
+.navbar-nav{
+    padding-left: 47vw;
+    font-size: 20px;
+}
+.navbar-brand{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.active{
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    opacity: 1;
+}
+/*body*/
+.jumbotron{
+    color: white;
+    margin: 328px 0px;
+    text-align: center;
+    align-items: center;
+}
+.jumbotron p{
+    font-size: 20px;
+    margin: 5px 300px;
+    
+}
+.jumbotron h2{
+    font-size: 50px;
+}
+.btn-primary{
+    background-color: white;
+    color: rgb(51,51,51);
+    border-color: white;
+}
+.col-md-8{
+    color: white;
+}
+/*rodape*/
+footer{
+    text-align: center;
+}
+footer p{
+    color: rgb(109, 109, 109);
+}
+footer p span{
+    color: white;
+    text-decoration: underline;
+}
